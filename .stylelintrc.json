@@ -6,7 +6,7 @@
     "stylelint-config-property-sort-order-smacss"
   ],
   "customSyntax": "@stylelint/postcss-css-in-js",
-  "plugins": ["stylelint-order", "stylelint-a11y"],
+  "plugins": ["stylelint-order"],
 
   "rules": {
     "order/order": ["custom-properties", "declarations"],
